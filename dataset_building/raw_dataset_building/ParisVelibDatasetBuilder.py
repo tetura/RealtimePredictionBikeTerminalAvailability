@@ -20,7 +20,7 @@ def fetch_raw_data():
     #
 
     # Raw data
-    with open('./paris_velib_dataset.csv', 'a', newline='', encoding="UTF-8") as velibDatasetCSV:
+    with open('../paris_velib_dataset.csv', 'a', newline='', encoding="UTF-8") as velibDatasetCSV:
         writer = csv.writer(velibDatasetCSV)
 
         if velibDatasetCSV.tell() == 0:
