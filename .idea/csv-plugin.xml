@@ -17,13 +17,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\dataset_building\raw_dataset_building\paris_velib_dataset.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
       </map>
     </option>
   </component>
