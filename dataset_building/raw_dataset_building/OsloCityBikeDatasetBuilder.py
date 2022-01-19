@@ -63,5 +63,5 @@ def fetch_raw_data():
                  ])
 
 scheduler = BlockingScheduler()
-scheduler.add_job(fetch_raw_data, 'interval', minutes=5)
+scheduler.add_job(fetch_raw_data, 'interval', minutes=30)
 scheduler.start()
