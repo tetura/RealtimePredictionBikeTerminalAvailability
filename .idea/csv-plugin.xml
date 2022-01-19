@@ -3,6 +3,27 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="\dataset_building\oslo_citybike_dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\dataset_building\oslo_citybike_dataset_preprocessed.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\dataset_building\oslo_citybike_station_information_dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\dataset_building\paris_velib_dataset.csv">
           <value>
             <Attribute>
@@ -11,6 +32,13 @@
           </value>
         </entry>
         <entry key="\dataset_building\paris_velib_dataset_preprocessed.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\dataset_building\suzhou_china_baseline_dataset.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
